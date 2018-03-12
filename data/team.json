@@ -1,0 +1,107 @@
+[
+ {
+   "id": 2001,
+   "name": "Chaitanya",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/chaitanya.jpg",
+   "position": "Overall Coordinator",
+   "contact": 9628380537
+ },
+ {
+   "id": 2002,
+   "name": "Hariom Niranjan",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/hariom.jpg",
+   "position": "Overall Coordinator",
+   "contact": 9131501267
+ },
+ {
+   "id": 2003,
+   "name": "Ashutosh Chandra",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/ashutosh.jpg",
+   "position": "Head, Events and Management",
+   "contact": 9919241909
+ },
+ {
+   "id": 2004,
+   "name": "Rajeev Dixit",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/rajeev.jpg",
+   "position": "Head, Events and Management",
+   "contact": 8826199805
+ },
+ {
+   "id": 2005,
+   "name": "Aayush Goyal",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/aayush.jpg",
+   "position": "Head, Finance",
+   "contact": 9029316282
+ },
+ {
+   "id": 2006,
+   "name": "Faheem Zunjani",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/faheem.jpg",
+   "position": "Head, Sponsorship",
+   "contact": 7828064086
+ },
+ {
+   "id": 2007,
+   "name": "Ayushi Asthana",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/ayushi.jpg",
+   "position": "Head, Media and Publicity",
+   "contact": 9818507691
+ },
+ {
+   "id": 2008,
+   "name": "Abhishek Nandan",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/nandan.jpg",
+   "position": "head, Media and Publicity",
+   "contact": 8603111470
+ },
+ {
+   "id": 2009,
+   "name": "Saksham Chawla",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/saksham.jpg",
+   "position": "Head, Public Relations",
+   "contact": 9044082271
+ },
+ {
+   "id": 2010,
+   "name": "Tanmay Jaiswal",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/tanmay.jpg",
+   "position": "Head, Hospitality and Travel",
+   "contact": 8090681030
+ },
+ {
+   "id": 2011,
+   "name": "Somendra Agrawal",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/somendra.jpg",
+   "position": "Head, Branding and Logistics",
+   "contact": 7233020977
+ },
+ {
+   "id": 2012,
+   "name": "Abhishek Sharma",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/abhishek.jpg",
+   "position": "Head, Design",
+   "contact": 9918992179
+ },
+ {
+   "id": 2013,
+   "name": "Aditya Dewan",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/aditya.jpg",
+   "position": "Head, Web Operations",
+   "contact": 7888460273
+ },
+ {
+   "id": 2014,
+   "name": "Pranjal Paliwal",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/pranjal.jpg",
+   "position": "Head, App Operations",
+   "contact": 7988346558
+ },
+ {
+   "id": 2015,
+   "name": "Ashwin Tagde",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/team/ashwin.jpg",
+   "position": "Head, Filming",
+   "contact": 7408235250
+ }
+]
