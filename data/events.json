@@ -1,22 +1,5 @@
 [{
 		"id": 101,
-		"name": "Opening Ceremony",
-		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521117000,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"informal"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
-	},
-	{
-		"id": 102,
 		"name": "Mock CID / Treasure Hunt",
 		"description": "",
 		"location": "Whole Campus",
@@ -33,16 +16,16 @@
 		}]
 	},
 	{
-		"id": 103,
+		"id": 102,
 		"name": "C-Fresh",
 		"description": "",
-		"location": "LAB 5042/41, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521171000,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -50,7 +33,7 @@
 		}]
 	},
 	{
-		"id": 104,
+		"id": 103,
 		"name": "IIIC B-Plan Evaluation",
 		"description": "",
 		"location": "Admin Audi",
@@ -59,7 +42,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"e-summit"
 		],
 		"organizers": [{
 			"name": "",
@@ -67,8 +50,8 @@
 		}]
 	},
 	{
-		"id": 105,
-		"name": "Start Up Intern Fair",
+		"id": 104,
+		"name": "Start Up Intern Fair-Day 1",
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 1521178200,
@@ -84,8 +67,8 @@
 		}]
 	},
 	{
-		"id": 106,
-		"name": "IIIC Talk- 1 [Mr. Sandro Stephen]",
+		"id": 105,
+		"name": "IIIC Talk : Mr. Sandro Stephen",
 		"description": "",
 		"location": "Admin Audi",
 		"timestamp": 1521183600,
@@ -93,7 +76,24 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"e-summit"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 106,
+		"name": "Qwerty Wars",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 1521187200,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"miscellaneous"
 		],
 		"organizers": [{
 			"name": "",
@@ -102,15 +102,15 @@
 	},
 	{
 		"id": 107,
-		"name": "Qwerty Wars",
+		"name": "Wolf of 2311",
 		"description": "",
-		"location": "LAB 5241, CC3",
-		"timestamp": 1521187200,
+		"location": "Computer Centre 3",
+		"timestamp": 1521185400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"electronics"
 		],
 		"organizers": [{
 			"name": "",
@@ -119,32 +119,32 @@
 	},
 	{
 		"id": 108,
-		"name": "Wolf of 2311",
+		"name": "3 Musketeers",
 		"description": "",
-		"location": "R1: CLASS 5006/7 ; R2: LAB 5019(ECE)/5042(IT)",
+		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"coding"
 		],
 		"organizers": [{
 			"name": "",
-			"phoneNumber": 1010101010
+			"phoneNumber": 7060882011
 		}]
 	},
 	{
 		"id": 109,
-		"name": "3 Musketeers",
+		"name": "ElectroBuzz",
 		"description": "",
-		"location": "LAB 5042, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"electronics"
 		],
 		"organizers": [{
 			"name": "",
@@ -153,23 +153,6 @@
 	},
 	{
 		"id": 110,
-		"name": "ElectroBuzz",
-		"description": "",
-		"location": "LAB 5019,CC3",
-		"timestamp": 1521185400,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"informal"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 7060882011
-		}]
-	},
-	{
-		"id": 111,
 		"name": "Confab",
 		"description": "",
 		"location": "Main Auditorium",
@@ -178,8 +161,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal",
-			"gaming"
+			"flagship"
 		],
 		"organizers": [{
 			"name": "",
@@ -187,8 +169,8 @@
 		}]
 	},
 	{
-		"id": 112,
-		"name": "IIIC Talk-2 [ Mr. Dharamveer Chouhan]",
+		"id": 111,
+		"name": "IIIC Talk : Mr. Dharamveer Chouhan",
 		"description": "",
 		"location": "Main Auditorium",
 		"timestamp": 1521207000,
@@ -196,8 +178,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal",
-			"gaming"
+			"e-summit"
 		],
 		"organizers": [{
 			"name": "",
@@ -205,7 +186,7 @@
 		}]
 	},
 	{
-		"id": 113,
+		"id": 112,
 		"name": "Comedy Night",
 		"description": "",
 		"location": "Main Auditorium",
@@ -214,8 +195,25 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
+			"pronites"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 113,
+		"name": "alkhwarizm",
+		"description": "",
+		"location": "Online",
+		"timestamp": 1521214200,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
 			"informal",
-			"gaming"
+			"quiz"
 		],
 		"organizers": [{
 			"name": "",
@@ -224,15 +222,15 @@
 	},
 	{
 		"id": 114,
-		"name": "HINT Opening Ceremony",
+		"name": "Frag-Fest Day 1",
 		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521214200,
+		"location": "Main Ground",
+		"timestamp": 1521216000,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"flagship", "gaming"
 		],
 		"organizers": [{
 			"name": "",
@@ -241,43 +239,7 @@
 	},
 	{
 		"id": 115,
-		"name": "ALKHWARIZM",
-		"description": "",
-		"location": "online",
-		"timestamp": 1521214200,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"informal",
-			"quiz"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 116,
-		"name": "FragFest",
-		"description": "",
-		"location": "Main Ground",
-		"timestamp": 1521216000,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"informal",
-			"quiz"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 117,
-		"name": "Start Up Intern Fair",
+		"name": "Start Up Intern Fair- Day 2",
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 1521264600,
@@ -294,16 +256,16 @@
 		}]
 	},
 	{
-		"id": 118,
-		"name": "GrayHound Pen & Paper",
+		"id": 116,
+		"name": "GrayHound",
 		"description": "",
-		"location": "CLASSROOMS 5006/7, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521261000,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"flagship"
 		],
 		"organizers": [{
 			"name": "",
@@ -311,7 +273,7 @@
 		}]
 	},
 	{
-		"id": 119,
+		"id": 117,
 		"name": "Consensys Workshop",
 		"description": "",
 		"location": "Main Auditorium",
@@ -328,16 +290,16 @@
 		}]
 	},
 	{
-		"id": 120,
+		"id": 118,
 		"name": "Blind War",
 		"description": "",
-		"location": "LAB 5042, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521261000,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -345,8 +307,8 @@
 		}]
 	},
 	{
-		"id": 121,
-		"name": "Talk- Rupak Chakraborty [GC  Nandi's Suggestions]",
+		"id": 119,
+		"name": "Talk : Rupak Chakraborty",
 		"description": "",
 		"location": "Main Audi",
 		"timestamp": 1521262800,
@@ -362,16 +324,16 @@
 		}]
 	},
 	{
-		"id": 122,
+		"id": 120,
 		"name": "Lang Challenge",
 		"description": "",
-		"location": "LAB 5042, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521268200,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal"
+			"coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -379,7 +341,7 @@
 		}]
 	},
 	{
-		"id": 123,
+		"id": 121,
 		"name": "IIIC B-Quiz",
 		"description": "",
 		"location": "Admin Audi",
@@ -388,8 +350,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal",
-			"gaming"
+			"e-summit"
 		],
 		"organizers": [{
 			"name": "",
@@ -397,33 +358,16 @@
 		}]
 	},
 	{
-		"id": 124,
-		"name": "CODERED talk",
+		"id": 122,
+		"name": "CodeRed",
 		"description": "",
-		"location": "Main Audi",
-		"timestamp": 1521266400,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"dance"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 125,
-		"name": "CODERED",
-		"description": "",
-		"location": "LAB 5042/41, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521275400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"dance"
+			"flagship", "coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -432,7 +376,7 @@
 
 	},
 	{
-		"id": 126,
+		"id": 123,
 		"name": "Matathon",
 		"description": "",
 		"location": "Online",
@@ -441,30 +385,13 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"dance"
+			"electronics"
 		],
 		"organizers": []
 	},
 	{
-		"id": 127,
-		"name": "GRAYHOUND finals",
-		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521279000,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"dramatics"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 129,
-		"name": "IIIC Talk - 3 [Mr. Zunaid Ahmed]",
+		"id": 124,
+		"name": "IIIC Talk : Mr. Zunaid Ahmed",
 		"description": "",
 		"location": "Admin Audi",
 		"timestamp": 1521286200,
@@ -472,7 +399,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"dramatics"
+			"e-summit"
 		],
 		"organizers": [{
 			"name": "",
@@ -480,56 +407,8 @@
 		}]
 	},
 	{
-		"id": 130,
-		"name": "Cycle Stunt Event (Tentative)",
-		"description": "",
-		"location": "Main Ground",
-		"timestamp": 1521289800,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"dramatics"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 131,
-		"name": "KeyNote Speech - 1",
-		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521293400,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"dramatics"
-		],
-		"organizers": []
-	},
-	{
-		"id": 132,
-		"name": "KeyNote Speech - 2 (Tentative)",
-		"description": "",
-		"location": "CC3",
-		"timestamp": 1521297000,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"music"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-		}]
-	},
-	{
-		"id": 133,
-		"name": "Android Asylum",
+		"id": 125,
+		"name": "Android Gamer's Asylum",
 		"description": "",
 		"location": "Game Zone",
 		"timestamp": 1521302400,
@@ -537,7 +416,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"music"
+			"gaming"
 		],
 		"organizers": [{
 			"name": "",
@@ -546,8 +425,8 @@
 		}]
 	},
 	{
-		"id": 134,
-		"name": "FragFest",
+		"id": 126,
+		"name": "Frag-Fest Day 2",
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 1521302400,
@@ -555,7 +434,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"music"
+			"flagship", "gaming"
 		],
 		"organizers": [{
 			"name": "",
@@ -563,8 +442,8 @@
 		}]
 	},
 	{
-		"id": 135,
-		"name": "Start Up Intern Fair",
+		"id": 127,
+		"name": "Start Up Intern Fair- Day 3",
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 1521351000,
@@ -580,21 +459,21 @@
 		}]
 	},
 	{
-		"id": 136,
+		"id": 128,
 		"name": "CodeQueen",
 		"description": "",
-		"location": "LAB 5241/42, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521347400,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"literature"
+			"coding"
 		],
 		"organizers": []
 	},
 	{
-		"id": 137,
+		"id": 129,
 		"name": "Humblefool Talk ",
 		"description": "",
 		"location": "Admin Auditorium",
@@ -603,8 +482,7 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"literature",
-			"quiz"
+			"flagship", "coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -612,10 +490,10 @@
 		}]
 	},
 	{
-		"id": 138,
+		"id": 130,
 		"name": "Humblefool Cup",
 		"description": "",
-		"location": "LAB 5041/42, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521354600,
 		"imageUrl": "",
 		"facebookEventLink": "",
@@ -630,16 +508,16 @@
 		}]
 	},
 	{
-		"id": 139,
+		"id": 131,
 		"name": "TechnoFault",
 		"description": "",
-		"location": "LAB 5019/5118, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521358200,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"literature"
+			"electronics"
 		],
 		"organizers": [{
 			"name": "",
@@ -648,30 +526,16 @@
 		}]
 	},
 	{
-		"id": 140,
-		"name": "HINT Presentation & Prize Dist.",
+		"id": 132,
+		"name": "Minimal Mania",
 		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521363600,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"literature"
-		],
-		"organizers": []
-	},
-	{
-		"id": 141,
-		"name": "MinimalMania",
-		"description": "",
-		"location": "CLASSROOM 5006, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521367200,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"fine arts"
+			"design"
 		],
 		"organizers": [{
 				"name": "",
@@ -679,19 +543,18 @@
 			}
 
 		]
-
 	},
 	{
-		"id": 142,
+		"id": 133,
 		"name": "Mr. Googler",
 		"description": "",
-		"location": "LAB 5041, CC3",
+		"location": "Computer Centre 3",
 		"timestamp": 1521372600,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"fine arts"
+			"miscellaneous"
 		],
 		"organizers": [{
 			"name": "",
@@ -699,26 +562,7 @@
 		}]
 	},
 	{
-		"id": 143,
-		"name": "Closing Ceremony",
-		"description": "",
-		"location": "Main Auditorium",
-		"timestamp": 1521378000,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"fine arts"
-		],
-		"organizers": [{
-				"name": "Vinit Mankar",
-				"phoneNumber": 7706020707
-			}
-
-		]
-	},
-	{
-		"id": 144,
+		"id": 134,
 		"name": "DJ Night",
 		"description": "",
 		"location": "Main Ground",
@@ -727,11 +571,182 @@
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"fine arts"
+			"pronites"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 135,
+		"name": "Infinitum",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"coding"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 136,
+		"name": "Nova",
+		"description": "",
+		"location": "Online",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"design"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 137,
+		"name": "Design Off ",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"design"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 138,
+		"name": "Pictionary",
+		"description": "",
+		"location": "Online",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"miscellaneous"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 139,
+		"name": "Perplexus",
+		"description": "",
+		"location": "Online",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"miscellaneous"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 140,
+		"name": "Hack In The North",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 141,
+		"name": "TopBot",
+		"description": "",
+		"location": "Main Ground",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 142,
+		"name": "Boot2Root",
+		"description": "",
+		"location": "Online",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"flagship"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 143,
+		"name": "MAD",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"development"
+		],
+		"organizers": [{
+			"name": "",
+			"phoneNumber": 1010101010
+		}]
+	},
+	{
+		"id": 144,
+		"name": "WebKriti",
+		"description": "",
+		"location": "Computer Centre 3",
+		"timestamp": 0,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"development"
 		],
 		"organizers": [{
 			"name": "",
 			"phoneNumber": 1010101010
 		}]
 	}
+
 ]

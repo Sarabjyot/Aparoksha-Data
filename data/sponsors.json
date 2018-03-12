@@ -1,0 +1,258 @@
+[
+ {
+   "id": 1001,
+   "name": "Consensys",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/sponsors/consensys.png",
+   "catagories": "Hackathon Title Sponsor",
+   "website": "https://new.consensys.net/",
+   "priority": 1
+ },
+ {
+   "id": 1002,
+   "name": "InfotechHub",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/ith.png",
+   "catagories": "Associate Hackathon Sponser",
+   "website": "http://ith.tech/",
+   "priority": 2
+ },
+ {
+   "id": 1003,
+   "name": "GitHub",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/github.png",
+   "catagories": "Hackathon Title Sponsor",
+   "website": "https://github.com/",
+   "priority": 3
+ },
+ {
+   "id": 1004,
+   "name": "Topcoder",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/topcoder.png",
+   "catagories": "Hackathon Title Sponsor",
+   "website": "https://www.topcoder.com/",
+   "priority": 4
+ },
+ {
+   "id": 1005,
+   "name": "Hackerearth",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/hackerearth.png",
+   "catagories": "Humblefool Sponser",
+   "website": "https://www.hackerearth.com",
+   "priority": 5
+ },
+ {
+   "id": 1006,
+   "name": "CodeChef",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/codechef.png",
+   "catagories": "Humblefool Sponser",
+   "website": "https://www.codechef.com/",
+   "priority": 6
+ },
+ {
+   "id": 1007,
+   "name": "Interaction Design Foundation",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/idf.png",
+   "catagories": "Design Partner",
+   "website": "https://www.interaction-design.org/",
+   "priority": 7
+ },
+ {
+   "id": 1008,
+   "name": "Ixigo",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/inixo.png",
+   "catagories": "Event Partner",
+   "website": "https://www.ixigo.com/",
+   "priority": 8
+ },
+ {
+   "id": 1009,
+   "name": "Sketch",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/sketch.png",
+   "catagories": "Design Partner",
+   "website": "https://www.sketchapp.com/",
+   "priority": 9
+ },
+ {
+   "id": 1010,
+   "name": "GeeksForGeeks",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/geeks.png",
+   "catagories": "Coding Platform Partner",
+   "website": "https://www.geeksforgeeks.org/",
+   "priority": 10
+ },
+ {
+   "id": 1011,
+   "name": "FestFav",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/fest-pav.png",
+   "catagories": "Event Partner",
+   "website": "http://www.festpav.com/",
+   "priority": 11
+ },
+ {
+   "id": 1012,
+   "name": "Igniteenginners",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/ignite.png",
+   "catagories": "Event Partner",
+   "website": "http://www.igniteengineers.com/",
+   "priority": 12
+ },
+ {
+   "id": 1013,
+   "name": "Know-A-Fest",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/knowafest.png",
+   "catagories": "Event Partner",
+   "website": "http://www.knowafest.com",
+   "priority": 13
+ },
+ {
+   "id": 1014,
+   "name": "Heroku",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/heroku.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://www.heroku.com/",
+   "priority": 14
+ },
+ {
+   "id": 1015,
+   "name": "GitLab",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/gitlab.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://about.gitlab.com",
+   "priority": 15
+ },
+ {
+   "id": 1016,
+   "name": "Balsamiq",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/balsamiq.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://balsamiq.com/index.html",
+   "priority": 16
+ },
+ {
+   "id": 1017,
+   "name": "Akhram seo",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/akhram-seo.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://arkhamseo.com/",
+   "priority": 17
+ },
+ {
+   "id": 1018,
+   "name": ".tech",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/dot-tech.png",
+   "catagories": "Hackathon Partner",
+   "website": "http://get.tech/",
+   "priority": 18
+ },
+ {
+   "id": 1019,
+   "name": "Restdb",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/restdb.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://restdb.io/",
+   "priority": 19
+ },
+ {
+   "id": 1020,
+   "name": "Python",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/psf.png",
+   "catagories": "Hackathon Partner",
+   "website": "https://www.python.org",
+   "priority": 20
+ },
+ {
+   "id": 1021,
+   "name": "Toppr",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/toppr.png",
+   "catagories": "Coding Platform Partner",
+   "website": "https://toppr.com/",
+   "priority": 21
+ },
+ {
+   "id": 1022,
+   "name": "PaisaWapas",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/paisawapas.png",
+   "catagories": "Event Partner",
+   "website": "https://www.paisawapas.com/",
+   "priority": 22
+ },
+ {
+   "id": 1023,
+   "name": "StudentStories",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/student.png",
+   "catagories": "Event Partner",
+   "website": "https://www.paisawapas.com/",
+   "priority": 23
+ },
+ {
+   "id": 1024,
+   "name": "Frapp",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/frapp.png",
+   "catagories": "Event Partner",
+   "website": "https://frapp.in/",
+   "priority": 24
+ },
+ {
+   "id": 1025,
+   "name": "CodingNinjas",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/coding-ninjas.svg",
+   "catagories": "Coding Platform Partner",
+   "website": "https://www.codingninjas.in/app/home",
+   "priority": 25
+ },
+ {
+   "id": 1026,
+   "name": "Collegedunia",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/collegedunia.png",
+   "catagories": "Coding Partner",
+   "website": "https://collegedunia.com/",
+   "priority": 26
+ },
+ {
+   "id": 1027,
+   "name": "RoboIndia",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/robo-india.jpg",
+   "catagories": "Event Partner",
+   "website": "https://roboindia.com/",
+   "priority": 27
+ },
+ {
+   "id": 1028,
+   "name": "ACM",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/acm.png",
+   "catagories": "Coding Partner",
+   "website": "http://india.acm.org/",
+   "priority": 28
+ },
+ {
+   "id": 1029,
+   "name": "IEEE",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/ieee.png",
+   "catagories": "Event Partner",
+   "website": "https://www.ieee.org/index.html",
+   "priority": 29
+ },
+ {
+   "id": 1030,
+   "name": "Hitchup",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/hitchup.png",
+   "catagories": "Event Partner",
+   "website": "https://hitchup.in/",
+   "priority": 30
+ },
+ {
+   "id": 1031,
+   "name": "Infi-Zeal Technologies",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/infizeal.png",
+   "catagories": "Event Partner",
+   "website": "http://www.infizeal.com/",
+   "priority": 31
+ },
+ {
+   "id": 1032,
+   "name": "Challenge Rocket",
+   "imageUrl": "https://github.com/Aparoksha18/Aparoksha-Data/raw/master/images/challenge-rocket.png",
+   "catagories": "Event Partner",
+   "website": "https://challengerocket.com/",
+   "priority": 32
+ }
+]
