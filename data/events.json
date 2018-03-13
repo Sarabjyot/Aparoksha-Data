@@ -10,6 +10,7 @@
 		"categories": [
 			"informal"
 		],
+		"duration": 0,
 		"organizers": [{
 			"name": "",
 			"phoneNumber": 1010101010
@@ -24,6 +25,7 @@
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
+		"duration": 0,
 		"categories": [
 			"coding"
 		],
@@ -40,6 +42,7 @@
 		"timestamp": 1521172800,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"e-summit"
@@ -57,6 +60,7 @@
 		"timestamp": 1521178200,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"informal"
@@ -73,6 +77,7 @@
 		"location": "Admin Audi",
 		"timestamp": 1521183600,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -91,6 +96,7 @@
 		"timestamp": 1521187200,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"miscellaneous"
@@ -107,6 +113,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -124,6 +131,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -141,6 +149,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521185400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -159,6 +168,7 @@
 		"timestamp": 1521199800,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"flagship"
@@ -175,6 +185,7 @@
 		"location": "Main Auditorium",
 		"timestamp": 1521207000,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -192,6 +203,7 @@
 		"location": "Main Auditorium",
 		"timestamp": 1521210600,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -204,16 +216,16 @@
 	},
 	{
 		"id": 113,
-		"name": "alkhwarizm",
+		"name": "Alkhwarizm",
 		"description": "",
 		"location": "Online",
 		"timestamp": 1521214200,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal",
-			"quiz"
+			"coding"
 		],
 		"organizers": [{
 			"name": "",
@@ -227,6 +239,7 @@
 		"location": "Main Ground",
 		"timestamp": 1521216000,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -242,13 +255,13 @@
 		"name": "Start Up Intern Fair- Day 2",
 		"description": "",
 		"location": "Main Ground",
+		"duration": 0,
 		"timestamp": 1521264600,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"informal",
-			"quiz"
+			"informal"
 		],
 		"organizers": [{
 			"name": "",
@@ -263,6 +276,7 @@
 		"timestamp": 1521261000,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"flagship"
@@ -278,6 +292,7 @@
 		"description": "",
 		"location": "Main Auditorium",
 		"timestamp": 1521261000,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -296,6 +311,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521261000,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -313,6 +329,7 @@
 		"location": "Main Audi",
 		"timestamp": 1521262800,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -331,6 +348,7 @@
 		"timestamp": 1521268200,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"coding"
@@ -347,6 +365,7 @@
 		"location": "Admin Audi",
 		"timestamp": 1521268200,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -363,6 +382,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521275400,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -381,6 +401,7 @@
 		"description": "",
 		"location": "Online",
 		"timestamp": 1521279000,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -395,6 +416,7 @@
 		"description": "",
 		"location": "Admin Audi",
 		"timestamp": 1521286200,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -413,6 +435,7 @@
 		"location": "Game Zone",
 		"timestamp": 1521302400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -430,6 +453,7 @@
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 1521302400,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -448,10 +472,11 @@
 		"location": "Main Ground",
 		"timestamp": 1521351000,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
-			"music"
+			"informal"
 		],
 		"organizers": [{
 			"name": "",
@@ -465,6 +490,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521347400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -479,6 +505,7 @@
 		"location": "Admin Auditorium",
 		"timestamp": 1521347400,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -490,30 +517,13 @@
 		}]
 	},
 	{
-		"id": 130,
-		"name": "Humblefool Cup",
-		"description": "",
-		"location": "Computer Centre 3",
-		"timestamp": 1521354600,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"literature"
-		],
-		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
-
-		}]
-	},
-	{
 		"id": 131,
 		"name": "TechnoFault",
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 1521358200,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -533,6 +543,7 @@
 		"timestamp": 1521367200,
 		"imageUrl": "",
 		"facebookEventLink": "",
+		"duration": 0,
 		"additionalInfo": [],
 		"categories": [
 			"design"
@@ -551,6 +562,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 1521372600,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -566,6 +578,7 @@
 		"name": "DJ Night",
 		"description": "",
 		"location": "Main Ground",
+		"duration": 0,
 		"timestamp": 1521390600,
 		"imageUrl": "",
 		"facebookEventLink": "",
@@ -585,6 +598,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 0,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -602,6 +616,7 @@
 		"location": "Online",
 		"timestamp": 0,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -619,6 +634,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 0,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -635,6 +651,7 @@
 		"description": "",
 		"location": "Online",
 		"timestamp": 0,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -652,6 +669,7 @@
 		"description": "",
 		"location": "Online",
 		"timestamp": 0,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -669,6 +687,7 @@
 		"description": "",
 		"location": "Computer Centre 3",
 		"timestamp": 0,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -686,6 +705,7 @@
 		"description": "",
 		"location": "Main Ground",
 		"timestamp": 0,
+		"duration": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
 		"additionalInfo": [],
@@ -704,6 +724,7 @@
 		"location": "Online",
 		"timestamp": 0,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -721,6 +742,7 @@
 		"location": "Computer Centre 3",
 		"timestamp": 0,
 		"imageUrl": "",
+		"duration": 0,
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -736,6 +758,7 @@
 		"name": "WebKriti",
 		"description": "",
 		"location": "Computer Centre 3",
+		"duration": 0,
 		"timestamp": 0,
 		"imageUrl": "",
 		"facebookEventLink": "",
