@@ -558,19 +558,22 @@
 	{
 		"id": 133,
 		"name": "Mr. Googler",
-		"description": "",
+		"description": "The phrase ‘Google it’ has become synonymous with searching for all possible answers on the web with just a click. Almost everyone knows how to google but do you have what it takes to be 'Mr. Googler' ? If Yes ! then this is just the right place for you. All you have to do is Google answers and win exciting prizes !!",
 		"location": "Computer Centre 3",
-		"timestamp": 1521372600,
+		"timestamp": 1521392400,
 		"imageUrl": "",
-		"duration": 0,
-		"facebookEventLink": "",
+		"duration": 60,
+		"facebookEventLink": "https://www.facebook.com/events/201426857281973/?notif_t=plan_edited&notif_id=1520920328780812",
 		"additionalInfo": [],
 		"categories": [
 			"miscellaneous"
 		],
 		"organizers": [{
-			"name": "",
-			"phoneNumber": 1010101010
+			"Organizer1": "Vijay Giri",
+			"phoneNumber1": 9453834673,
+			"Organizer2": "Sarbjyot Singh",
+			"phoneNumber2": 7571840301
+
 		}]
 	},
 	{
